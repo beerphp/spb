@@ -6,4 +6,6 @@
 
 | Version                    | Place                                                                   | Date              |
 | -------------------------- | ----------------------------------------------------------------------- | ----------------- |
-| #0 (Pilot)                 | Choosing (join Telegram channel to discuss)                             | 26 july 2019      |
+| #0 (Pilot)                 | Grizzly Bar                                                             | 26 july 2019      |
+| #1                         | Hooligans Bar                                                           | 16 august 2019    |
+| #2                         | Wating...                                                               | Wating...         |
