@@ -10,4 +10,5 @@
 | #1                         | Hooligans Bar                                                           | 16 august 2019    |
 | #2                         | London Pub                                                              | 27 september 2019 |
 | #3                         | Madlab Bar                                                              | 18 october 2019   |
-| #4 (anniversary)           | -                                                                       | -                 |
+| #4                         | Frank                                                                   | 8 november 2019   |
+| #5                         | (anniversary)                                                           | 29 november 2019  |
