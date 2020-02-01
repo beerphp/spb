@@ -1,7 +1,7 @@
 ### BeerPHP SPB Meetup #1
 Здесь собраны все презентации и дополнительные материалы к первому митапу питерского сообщества BeerPHP.
 
-Есть запись прямой трансляции на (Youtube)[https://www.youtube.com/watch?v=qGItNYIAofQ]
+Есть запись прямой трансляции на [Youtube](https://www.youtube.com/watch?v=qGItNYIAofQ)
 
 Доклады (в итоговом порядке):
 1. Переписывая легаси (Дмитрий Елисеев)
