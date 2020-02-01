@@ -1,6 +1,10 @@
 # BeerPHP Saint-Petersburg
 
-[![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerphp_spb)
+[![Telegram Chat](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerphp_spb)
+[![Telegram Channel](https://img.shields.io/badge/telegram%20channel-news-blue.svg?style=flat)](https://t.me/beerphp_spb_news)
+[![Meetup](https://img.shields.io/badge/meetup.com-group-red.svg?style=flat)](https://www.meetup.com/beerphp_spb/)
+[![YouTube](https://img.shields.io/badge/YouTube-channel-red.svg?style=flat)](https://www.youtube.com/channel/UC7HeLRn5kBpu1o-MiAcvCyw)
+
 
 ## Releases
 
