@@ -18,5 +18,5 @@
 | #5                         | in100gram bar                                                           | 29 november 2019  |
 | #6 (New Year Party)        | in100gram bar (Декабристов, 7; с 19 часов)                              | 20 december 2019  |
 | #7                         | Неканон (Лиговский пр., 50к6)                                           | 17 january 2020   |
-| Meetup #1                  | COLAB (ул. Звенигородская, 9-11)                                        | 31 january 2020   |
+| [Meetup #1](https://github.com/beerphp/spb/tree/master/Meetups/%231)                | COLAB (ул. Звенигородская, 9-11)                                        | 31 january 2020   |
 | #8                         | Неканон (Лиговский пр., 50к6)                                           | 31 january 2020   |
